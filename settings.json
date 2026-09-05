@@ -2,7 +2,7 @@
   "name": "AFK Bot",
   "bot-account": {
     "username": "WoahBot",
-    "password": "",
+    "password": "faturmc11",
     "type": "offline"
   },
   "server": {
@@ -19,7 +19,7 @@
   "utils": {
     "auto-auth": {
       "enabled": true,
-      "password": "Perzuu"
+      "password": "faturmc11"
     },
     "anti-afk": {
       "enabled": true,
